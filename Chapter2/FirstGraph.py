@@ -3,7 +3,7 @@ from pylab import plot, show
 class FirstGraph:
 
 	def graphCoords(x_coords, y_coords):
-		plot(x_coords, y_coords)
+		plot(x_coords, y_coords, marker = 'o')
 		show()
 
 	if __name__ == '__main__':
