@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8aff2ea-80e9-491e-9af8-da3bd729a600" name="Default" comment="" />
+    <list default="true" id="e8aff2ea-80e9-491e-9af8-da3bd729a600" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiplicationTable.py" afterPath="$PROJECT_DIR$/MultiplicationTable.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QuadraticRoots.py" afterPath="$PROJECT_DIR$/QuadraticRoots.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QuadraticRoots.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/QuadraticRoots.py">
+      <file leaf-file-name="MultiplicationTable.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MultiplicationTable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="209">
+              <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -51,8 +54,8 @@
         <option value="$PROJECT_DIR$/ComplexNumbers.py" />
         <option value="$PROJECT_DIR$/FactorCalculator.py" />
         <option value="$PROJECT_DIR$/RangeExample.py" />
-        <option value="$PROJECT_DIR$/MultiplicationTable.py" />
         <option value="$PROJECT_DIR$/QuadraticRoots.py" />
+        <option value="$PROJECT_DIR$/MultiplicationTable.py" />
       </list>
     </option>
   </component>
@@ -353,18 +356,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MultiplicationTable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/QuadraticRoots.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiplicationTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
           <folding />
         </state>
       </provider>

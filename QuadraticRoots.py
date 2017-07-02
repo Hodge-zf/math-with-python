@@ -8,7 +8,7 @@ class QuadraticRoots:
 
 		print('Root 1: {0}'.format(root_1))
 		print('Root 2: {0}'.format(root_2))
-		
+
 	if __name__ == '__main__':
 		a = input('Enter a: ')
 		b = input('Enter b: ')
