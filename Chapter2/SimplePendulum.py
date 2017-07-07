@@ -14,9 +14,8 @@ def generate_T_l():
 	g = 9.81
 	for length in l:
 		period = (2*math.pi)*((length/g)**0.5)
-		T.append(length)
+		T.append(period)
 	draw_graph(T, l)
 
 if __name__ == '__main__':
 	generate_T_l()
-	exit()
