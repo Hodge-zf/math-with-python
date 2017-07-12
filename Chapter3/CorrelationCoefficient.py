@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 def find_corr_x_y(x, y):
 	n = len(x)
 
@@ -33,3 +35,5 @@ if __name__ == '__main__':
 	high_school_grades = [90, 92, 95, 96, 87, 87, 90, 95, 98, 96]
 	admission_test_scores = [86, 87, 86, 97, 96, 88, 89, 98, 98, 87]
 	print(find_corr_x_y(high_school_grades, admission_test_scores))
+	plt.scatter(high_school_grades, admission_test_scores)
+	plt.show()
