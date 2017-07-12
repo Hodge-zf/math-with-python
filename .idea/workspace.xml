@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8aff2ea-80e9-491e-9af8-da3bd729a600" name="Default" comment="" />
+    <list default="true" id="e8aff2ea-80e9-491e-9af8-da3bd729a600" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter3/CorrelationCoefficient.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,21 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindingRange.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter3/FindingRange.py">
+      <file leaf-file-name="CorrelationCoefficient.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter3/CorrelationCoefficient.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VarianceAndStandardDeviation.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter3/VarianceAndStandardDeviation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="75" lean-forward="false" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="75" />
+            <state relative-caret-position="608">
+              <caret line="34" column="65" lean-forward="false" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -79,6 +72,7 @@
         <option value="$PROJECT_DIR$/Chapter3/FrequencyTable.py" />
         <option value="$PROJECT_DIR$/Chapter3/FindingRange.py" />
         <option value="$PROJECT_DIR$/Chapter3/VarianceAndStandardDeviation.py" />
+        <option value="$PROJECT_DIR$/Chapter3/CorrelationCoefficient.py" />
       </list>
     </option>
   </component>
@@ -514,6 +508,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3/VarianceAndStandardDeviation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="75" lean-forward="false" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter3/FindingRange.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -522,10 +524,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter3/VarianceAndStandardDeviation.py">
+    <entry file="file://$PROJECT_DIR$/Chapter3/CorrelationCoefficient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="75" lean-forward="false" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="75" />
+        <state relative-caret-position="608">
+          <caret line="34" column="65" lean-forward="false" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
           <folding />
         </state>
       </provider>
