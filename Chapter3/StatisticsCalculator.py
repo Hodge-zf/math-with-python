@@ -58,8 +58,9 @@ if __name__ == '__main__':
 
 	x = (input('Filename: '))
 	numbers = []
-	for i in x:
-		numbers.append(i)
+	with open(x) as i:
+		for line in i:
+			numbers.append(int(line))
 	N = len(numbers)
 	mean = calculate_mean(numbers)
 	median = calculate_median(numbers)
