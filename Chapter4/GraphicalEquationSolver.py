@@ -4,7 +4,7 @@ from sympy import Symbol, sympify, solve
 def solve_equations(eq1, eq2, x, y):
 	solution = solve((eq1, eq2), dict=True)
 	if solution:
-		print('x: {0} y: {1}'.format(solution[0][x]. solution[1][y]))
+		print('x: {0} y: {1}'.format(solution[0][x], solution[0][y]))
 	else:
 		print('No solution found')
 	eq1_y = solve(eq1, 'y')[0]
