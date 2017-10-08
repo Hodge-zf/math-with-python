@@ -13,9 +13,7 @@ def initialize_image(x_p, y_p):
 	return image
 
 
-def color_points():
-	x_p = 6
-	y_p = 6
+def color_points(x_p, y_p):
 	image = initialize_image(x_p, y_p)
 	for i in range(y_p):
 		for j in range(x_p):
@@ -26,4 +24,6 @@ def color_points():
 	plt.show()
 
 if __name__ == '__main__':
-	color_points()
+	x_p = input("Length of side : ")
+	y_p = x_p
+	color_points(int(x_p),int(y_p))
